@@ -1,0 +1,11 @@
+fastapi
+httpx
+uvicorn
+pydantic
+python-multipart
+numpy
+openai
+python-dotenv
+SQLAlchemy
+asyncpg
+alembic
